@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
+//https://euler.jakumo.org/problems/view/44.html
+// Задача 44. Пятиугольные числа
+
 namespace Pentagonal
 {
     class Program
