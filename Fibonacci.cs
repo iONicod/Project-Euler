@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Numerics;
 
+// https://euler.jakumo.org/problems/view/25.html
+// Задача 25. 1000-Значное число Фибоначчи
+
 namespace Fibonacci
 {
     class Fibonacci
