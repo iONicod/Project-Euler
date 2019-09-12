@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Numerics;
 
+// https://euler.jakumo.org/problems/view/38.html
+// Задача 38. Пан-цифровые кратные числа
+
 namespace Powers
 {
     class Program
