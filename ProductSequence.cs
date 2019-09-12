@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 
+//https://euler.jakumo.org/problems/view/8.html
+// Задача 8. Наибольшее произведение в последовательности
+
+
 namespace ProductSequence
 {
     class Program
